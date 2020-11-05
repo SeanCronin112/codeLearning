@@ -15,7 +15,7 @@ void sayHello(char name []){
 double cube(double num){
     double result = num * num * num;
     return result;
-    printf("Here"); /*Never Touched */
+    printf("Here"); /*Never touched, as it comes after the return.*/
 }
 
 int main()
@@ -31,6 +31,7 @@ int main()
 
     printf("Answer: %f", cube(2.0));
 
-
     return 0;
 }
+
+/* Prototyping is placing the function signature (double cube(double num) above the main function to avoid errors.)
