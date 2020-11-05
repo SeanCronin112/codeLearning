@@ -34,4 +34,4 @@ int main()
     return 0;
 }
 
-/* Prototyping is placing the function signature (double cube(double num) above the main function to avoid errors.)
+/* Prototyping is placing the function signature (double cube(double num) above the main function to avoid errors.) */
