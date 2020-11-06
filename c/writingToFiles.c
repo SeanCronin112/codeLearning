@@ -7,4 +7,5 @@ int main() {
     fprintf(fpointer, "\nJim, Salesman");
 
     fclose(fpointer);
+
 }
