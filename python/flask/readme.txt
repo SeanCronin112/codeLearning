@@ -1,0 +1,1 @@
+This Flask tutorial is taken from - https://realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/
